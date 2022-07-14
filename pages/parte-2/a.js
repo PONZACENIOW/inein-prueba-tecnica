@@ -23,11 +23,13 @@ const Test2A = memo(() => {
             alt="infraestructuramedica"
           ></img>
           <ul className="text-lg gap-4 flex uppercase text-gray-200 items-center">
-            <li>Mi proyecto</li>
-            <li>Usuarios</li>
-            <li>Presupuesto</li>
+            <li>Inicio</li>
+            <li>Nosotros</li>
+            <li>Servicios</li>
             <li>Proyectos</li>
-            <li>Administración</li>
+            <li>Blog</li>
+            <li>Partners</li>
+            <li>Contacto</li>
             <li className="border px-4 p-2 cursor-pointer ml-40">Cotizar</li>
           </ul>
         </nav>
