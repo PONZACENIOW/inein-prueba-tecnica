@@ -10,7 +10,7 @@ const Layout = memo(({ header, children }) => {
         <ul className="flex gap-4">
           <li
             className="cursor-pointer hover:bg-blue-500 hover:text-gray-100 p-2"
-            onClick={() => router.push("/parte-1")}
+            onClick={() => router.push("/")}
           >
             Parte 1
           </li>
